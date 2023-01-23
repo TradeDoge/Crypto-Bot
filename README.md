@@ -1,14 +1,10 @@
 <img src="https://github.com/thebeardedprogrammer/photosforconfig/raw/main/mybanner.png" >
  
 Feel free to fork and improve or whatever but please if you fork and modify please give credit.
-This is a tutorial to help run the JavaScript DEX Triangular Arbitrage Bot v4 (javascript version).
+This is a tutorial to help run the trading bot (javascript version).
 I made a youtube video here on how to configure and run it here
 
 https://www.youtube.com/watch?v=2lb1ohIJrds
-
-You can download the zip file of the bot here
-
-https://github.com/thebeardedprogrammer/JavaScript-Decentralized-Exchange-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip
 
 For people how like witten instructionslet’s get started.
 
@@ -42,6 +38,3 @@ here the bot find a arbitrage
 
 <img src="https://github.com/thebeardedprogrammer/photosforconfig/raw/main/foundone.png" >
 
-
-# JavaScript-Decentralized-Exchange-Triangular-Arbitrage-Bot-v4
-JavaScript Decentralized Exchange Triangular Arbitrage Bot v4 work on the ETH,BNB and Polygon Networks
