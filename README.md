@@ -8,7 +8,7 @@ For people how like witten instructionslet’s get started.
 
 Part 1. Main software installations.
 
-Extract the JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip anywhere you like that easy for you to find.
+Extract the TradingBot anywhere you like that easy for you to find.
 
 
 Part 2. Editing the settings
