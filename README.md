@@ -1,7 +1,7 @@
 <img src="https://github.com/thebeardedprogrammer/photosforconfig/raw/main/mybanner.png" >
  
 Feel free to fork and improve or whatever but please if you fork and modify please give credit.
-This is a tutorial to help run the trading bot (javascript version).
+This is a tutorial to help run the trading bot (javascript version)
 I made a youtube video here on how to configure and run it here
 
 For people how like witten instructionslet’s get started.
