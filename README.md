@@ -8,7 +8,7 @@ This is a tutorial to help run the crypto bot (javascript version)
 
 Let’s get started..
 
-Part 1. Editing the settings.
+Part 1. Editing the settings..
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 
