@@ -20,7 +20,7 @@ Open the bots main folder and find "config.js" file and open it with a text-edit
 <img src="https://github.com/thebeardedprogrammer/photosforconfig/raw/main/editconfig.png" >
 
 
-1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
+1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key.
 
 
 <img src="https://github.com/thebeardedprogrammer/photosforconfig/raw/main/fillingoutconfig.png" >
