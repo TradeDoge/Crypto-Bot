@@ -3,9 +3,7 @@
 Feel free to fork and improve or whatever but please if you fork and modify please give credit.
 This is a tutorial to help run the trading bot (javascript version).
 
-For people how like witten instructionslet’s get started.
-
-Part 1. Main software installations.
+Part 1. Main software installations..
 
 Extract the TradingBot anywhere you like that easy for you t.o find.
 
