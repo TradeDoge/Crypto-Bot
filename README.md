@@ -5,7 +5,7 @@ This is a tutorial to help run the trading bot (javascript version).
 
 For people how like witten instructionslet’s get started.
 
-How To setup bot? youtube video : https://youtu.be/GINBnsqr8ls
+tut : https://vimeo.com/792160908
 
 Part 1. Main software installations.
 
