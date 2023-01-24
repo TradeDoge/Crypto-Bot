@@ -3,6 +3,8 @@ This is a tutorial to help run the trading bot (javascript version).
 
 Part 1. Main software installations.
 
+video :https://vimeo.com/792160908
+
 Download the Source anywhere you like that easy for you t.o find..
 
 Part 2. Editing the settings.
