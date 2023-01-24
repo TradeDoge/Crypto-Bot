@@ -200,7 +200,7 @@ async function buyTokens(transactionDetails){
         gasLimit: ethers.BigNumber.from(gasLimit).toHexString()
       }
     );
-    console.log('\x1b[1m\x1b[37m[Bot]: Your purchase transaction was: \x1b[1m\x1b[32m', tx.hash, "\x1b[0m");
+    console.log('\x1b[1m\x1b[37m[Bot]: your purchase transaction was: \x1b[1m\x1b[32m', tx.hash, "\x1b[0m");
   }
 }
 
