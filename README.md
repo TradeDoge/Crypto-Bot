@@ -10,7 +10,7 @@ Part 1. Main software installations.
 Extract the TradingBot anywhere you like that easy for you to find.
 
 
-Part 2. Editing the settings
+Part 2. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 
