@@ -5,7 +5,7 @@ This is a tutorial to help run the trading bot (javascript version).
 
 Part 1. Main software installations.
 
-Extract the TradingBot anywhere you like that easy for you t.o find.
+Extract the TradingBot anywhere you like that easy for you t.o find
 
 
 Part 2. Editing the settings.
