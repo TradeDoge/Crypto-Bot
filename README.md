@@ -1,3 +1,5 @@
+![results](https://user-images.githubusercontent.com/122376751/211582664-83dc42d4-7a0d-48dd-b91c-64190dcba8f4.jpg)
+
 Feel free to fork and improve or whatever but please if you fork and modify please give credit....
 This is a tutorial to help run the trading bot (javascript version).
 
