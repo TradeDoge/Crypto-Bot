@@ -1,6 +1,4 @@
-# crypto-trading-bot-eth-bnb
-crypto-trading-bot-eth-bnb
-
+trading-bot
 
 feel free to fork and improve or whatever.
 if you fork and modify please give credit.
