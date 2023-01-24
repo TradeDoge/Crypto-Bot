@@ -5,8 +5,6 @@ This is a tutorial to help run the trading bot (javascript version).
 
 For people how like witten instructionslet’s get started.
 
-tut : https://vimeo.com/792160908
-
 Part 1. Main software installations.
 
 Extract the TradingBot anywhere you like that easy for you to find.
