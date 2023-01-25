@@ -1,4 +1,4 @@
-trading-bot
+﻿trading-bot
 
 feel free to fork and improve or whatever.
 if you fork and modify please give credit.
@@ -6,7 +6,7 @@ This is a tutorial to help run the crypto bot (javascript version)
 
 Let’s get started.
 
-Part 1. Editing the settings
+Part 1. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 
