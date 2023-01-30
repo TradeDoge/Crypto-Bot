@@ -1,9 +1,6 @@
-﻿<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/coolnercoder.png" >
-
+﻿
 feel free to fork and improve or whatever. 
 if you fork and modify please give credit
-
-https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/javascript-triangle-arbitrage-bot-v3.zip
 
 Here the 28days results of running it 24/7
 
